@@ -1,0 +1,5 @@
+Name: Biden	Fact About Me: President	Score: 45*	Pfp: Putin______.jpeg
+Name: Clinton	Fact About Me: President	Score: 80*	Pfp: Elon_Musk__.jpeg
+Name: Shivank	Fact About Me: Hali	Score: 55*	Pfp: Elon_Musk__.jpeg
+Name: Ali	Fact About Me: Malik	Score: 55*	Pfp: Elon_Musk__.jpeg
+Name: Lincoln	Fact About Me: President	Score: 90*	Pfp: Joe_Biden__.jpeg

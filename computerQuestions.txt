@@ -1,0 +1,240 @@
+Samoa.png
+New Zealand
+Czechia
+Samoa
+Costa Rica
+2
+Bosnia Herzegovina.png
+Uzbekistan
+Netherlands
+Papua New Guinea
+Bosnia Herzegovina
+3
+Kenya.png
+Kenya
+Dominica
+China
+Morroco
+0
+Afghanistan.png
+Bhutan
+Saudi Arabia
+Afghanistan
+Egypt
+2
+Russia.png
+France
+Russia
+Lebanon
+India
+1
+Guatemala.png
+Argentina
+Chile
+Guatemala
+Laos
+2
+Bolivia.png
+Equador
+North Korea
+Maldives
+Bolivia
+3
+North Korea.png
+North Korea
+Somalia
+United Kindom
+Australia
+0
+Ghana.png
+Kuwait
+Kenya
+Ghana
+Somalia
+2
+Hungary.png
+Romania
+Chile
+Moscow
+Hungary
+3
+Saudi Arabia.png
+Egypt
+Saudi Arabia
+Pakistan
+Cuba
+1
+Iceland.png
+Iceland
+Greenland
+Fireland
+Purpleland
+0
+Poland.png
+Austria
+Poland
+Germany
+Luxemburg
+1
+China.png
+Vietnam
+Taiwan
+Japan
+China
+3
+Argentina.png
+Argentina
+Chile
+Guatemala
+Laos
+0
+Kazakhstan.png
+Uzbekistan
+Iran
+Kazakhstan
+Thailand
+2
+Venezuela.png
+Venezuela
+Nicaragua
+Panama
+Guatemala
+0
+Liberia.png
+Malta
+Maldives
+New Zealand
+Liberia
+3
+Colombia.png
+Colombia
+Equador
+Peru
+Bolivia
+0
+Iran.png
+Israel
+Iraq
+Iran
+Iphone
+2
+Namibia.png
+Scotland
+Whales
+Namibia
+China
+2
+Tanzania.png
+Madagascar
+Tanzania
+Sri Lanka
+Pakistan
+1
+Jamaica.png
+Jamaica
+Kenya
+Italy
+Ghana
+0
+Zambia.png
+Cambodia
+Papua New Guinea
+Burundi
+Zambia
+3
+D.R. Congo.png
+Honduras
+Hungary
+D.R. of Congo
+United Arab Emirates
+2
+Cambodia.png
+Sweden 
+Cambodia
+France
+Slovenia
+1
+Djibouti.png
+Djibouti
+Botswana
+Zimbabwe
+Paraguay
+0
+Angola.png
+Mali
+Bali
+Angola
+Monaco
+2
+Lesotho.png
+Turkey
+Jordan
+Virgin Islands (U.S.)
+Lesotho
+3
+Tunisia.png
+Myanmar
+Cuba
+Tunisia
+China
+2
+Papua New Guinea.png
+India
+Russia
+Liechtenstein
+Papua New Guinea
+3
+Ukraine.png
+Ukraine
+Botswana
+Denmark
+Fiji
+0
+Guinea.png
+Bolivia
+Senegal
+Guinea
+Afghanistan
+2
+Estonia.png
+Madagascar
+Estonia
+Finland
+Armenia
+1
+Trinidad and Tobago.png
+Trinidad and Tobago
+Cameroon
+Syrian Arab Republic
+Slovenia
+0
+Laos.png
+Vietnam
+Laos
+Thailand
+Ireland
+1
+Kyrgyzstan.png
+Netherlands
+Barbados
+Estonia
+Kyrgyzstan
+3
+Tajikistan.png
+Tonga
+Montserrat
+Tajikistan
+Palestine
+2
+Cuba.png
+Puerto Rico
+Cuba
+Thailand
+Kenya
+1
+Kosovo.png
+Tokelau
+Kosovo
+Guernsey
+Western Sahara
+1
